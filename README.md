@@ -1,1 +1,1 @@
-# SP-500-Stock-Price-Index_-Modeling-and-Forecasting
+# Time Series Forecasting of S&P 500 Stock Price Index
